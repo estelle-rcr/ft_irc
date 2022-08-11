@@ -37,8 +37,8 @@ According to the IRC reference document (RFC 2810 to 2813), we implemented the f
 
 ### User commands
 - MODE	(ex: `MODE user +r` - available modes: B, i, o, r, s)
-- OPER	(ex: 'OPER user pwd` - host must be registered in the conf files)
-- KILL  (ex: 'KILL otheruser comment')
+- OPER	(ex: `OPER user pwd` - host must be registered in the conf files)
+- KILL  (ex: `KILL otheruser comment`)
 - WHO
 - WHOIS	(ex: `WHOIS otheruser`)
 
